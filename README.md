@@ -1,4 +1,4 @@
-# marine_recorder_selenium_automation
+# Marine Recorder Selenium Automation
 Automate manipulation of records on MR portal with selenium
 
 
